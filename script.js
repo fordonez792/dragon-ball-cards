@@ -77,3 +77,4 @@ const chooseRandomCard = () => {
         }
     }, 200);
 };
+//
